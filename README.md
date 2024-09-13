@@ -1,4 +1,4 @@
-## Hi there 👋
+## I´m Alejandro Belar currently studying at CEV Barcelona.  👋
 
 <!--
 **AlejandroBelarA1/AlejandroBelarA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
